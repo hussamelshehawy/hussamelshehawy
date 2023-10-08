@@ -8,5 +8,5 @@ Skills: Linux / AWS / Containerization / Virtualization / Scripting
 - 🌱 I’m currently learning RHCE 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hussamelshehawy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hussamelshehawy/)  
+[<p aligen=center <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> p>](https://github.com/hussamelshehawy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hussamelshehawy/)  
 
