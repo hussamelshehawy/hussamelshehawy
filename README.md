@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Hussam
 #### I'm a SysAdmin and a DevOps Engineer
-![I'm a SysAdmin and a DevOps Engineer]
 I'm a system administrator with proven experience on the field and a passion towards Cloud and DevOps
 
 Skills: Linux / AWS / Containerization / Virtualization / Scripting 
